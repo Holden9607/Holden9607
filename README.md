@@ -27,3 +27,28 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holden9607&langs_count=8&layout=compact&theme=algolia&hide_border=false" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Holden9607&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Holden9607&theme=algolia&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?theme=github-dark-v2&username=Holden9607" width="100%" alt="activity-graph graph" />
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+###
