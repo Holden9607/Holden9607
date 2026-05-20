@@ -10,11 +10,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" width="130" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" width="160" alt="github logo" />
   <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" width="160" alt="gradle logo" />
+  <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" width="180" alt="javascript logo" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" width="160" alt="nodejs logo" />
-  <br />
   <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=black&style=for-the-badge" width="150" alt="replit logo" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" width="140" alt="unity logo" />
+  <br />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" width="200" alt="raspberrypi logo" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" width="130" alt="dot-net logo" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" width="160" alt="bash logo" />
@@ -25,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Holden9607&layout=compact&theme=algolia&hide_border=false" width="410" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Holden9607&layout=compact&theme=algolia&hide_border=false" width="495" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Holden9607&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" width="495" alt="streak graph" />
 </div>
 
