@@ -25,8 +25,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Holden9607&layout=compact&theme=algolia&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Holden9607&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <h4 style="color: #61afef; margin-bottom: 10px;">Most Used Languages</h4>
+        <img src="https://img.shields.io/badge/Java-96.79%25-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=0B132B" width="220" height="30" /><br/><br/>
+        <img src="https://img.shields.io/badge/HTML-3.21%25-E34F26?style=flat&logo=html5&logoColor=white&labelColor=0B132B" width="220" height="30" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://streak-stats.demolab.com?user=Holden9607&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -39,16 +49,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Holden9607&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity-graph graph" />
-</div>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ###
