@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Holden9607.Holden9607" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Holden9607.Holden9607&" />
 </div>
 
 ###
@@ -19,27 +19,35 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="35" alt="dot-net logo" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="35" alt="bash logo" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" /></a>
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holden9607&layout=compact&theme=algolia&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Holden9607/Holden9607/main/languages.svg" height="150" alt="languages graph" onerror="this.src='https://raw.githubusercontent.com/Holden9607/Holden9607/master/languages.svg'"/>
   <img src="https://streak-stats.demolab.com?user=Holden9607&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Holden9607&theme=algolia&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?area=true&theme=algolia&username=Holden9607" width="100%" alt="activity-graph graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Holden9607/Holden9607/main/trophy.svg" height="150" alt="trophy graph" onerror="this.src='https://raw.githubusercontent.com/Holden9607/Holden9607/master/trophy.svg'"/>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?theme=algolia&username=Holden9607&bg_color=050e14&point=007acc" width="100%" alt="activity-graph graph" />
 </div>
 
 ###
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/master/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/master/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Holden9607/Holden9607/master/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Holden9607/Holden9607/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
